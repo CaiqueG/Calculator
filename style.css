@@ -1,0 +1,60 @@
+body{
+  background-color: black;
+  background-image: url('https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-2-calculadora-certa.png');
+}
+
+.container {
+  text-align: center;
+  padding: 20px
+  height: 100vh;
+}
+
+.page-tittle{
+  color: white;
+  text-align: center;
+}
+
+.page-logo{
+  width: 200px;
+}
+
+.campo1 {
+  margin: 10px;
+  padding: 10px 25px;
+  border-radius: 10px;
+}
+
+.campo2 {
+  margin: 10px;
+  padding: 10px 25px;
+  border-radius: 10px;
+
+}
+
+.campo3 {
+  margin: 10px;
+  padding: 10px 25px;
+  border-radius: 10px;
+
+}
+
+.b1 {
+   margin: 10px;
+  border: 0;
+  color: #ffffff;
+  background: grey;
+  font-weight: bold;
+  padding: 10px 10px;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.final{
+  color: Black;
+  position: absolute;
+  top: 165px;
+  left: 640px;
+}
